@@ -1,0 +1,19 @@
+{
+    "name": "xutingwei/mypack",
+    "description": "this is my first",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xutingwei",
+            "email": "245094499@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
