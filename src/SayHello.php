@@ -6,6 +6,6 @@ class SayHello
 {
     public static function index()
     {
-        echo 'Hello World!!!!';
+        echo 'Hello World!!!';
     }
 }
