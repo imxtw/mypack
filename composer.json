@@ -1,7 +1,7 @@
 {
-    "name": "xutingwei/mypack",
+    "name": "xutingwei/pack",
     "description": "this is my first",
-    "type": "library",
+    "type": "project",
     "license": "MIT",
     "authors": [
         {
